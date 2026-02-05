@@ -1,0 +1,33 @@
+Historia de usuario
+
+Como dueño
+Quiero supervisar la gestión operativa de la empresa
+Para asegurar su crecimiento y rentabilidad
+
+Como empleado/programador
+Quiero llevar el control y buen funcionamiento de los servidores de la empresa
+Para mantener los archivos de la empresa seguros
+
+Como chofer
+Quiero llevar paquetes de la empresa eficazmente
+Para entregarlos a su destino correspondiente
+
+Criterios de aceptacion
+
+Como dueño
+
+-El sistema opera sin caídas durante la jornada laboral
+-Se registran reportes de desempeño mensuales
+-Las tareas asignadas se completan en el plazo establecido
+
+Como empleado
+
+-Los servidores deben mantenerse operativos y monitoreados continuamente
+-Se realizan respaldos de información de forma constante
+-Los archivos de la empresa permanecen protegidos mediante controles de acceso
+
+Como chofer
+
+-Los paquetes deben llegar a una hora establecida
+-Debe haaber registro del inventario que se lleva en el camion
+-Debe registrarse hora de salida y de entrega
