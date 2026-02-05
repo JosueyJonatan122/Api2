@@ -15,7 +15,7 @@ class Base_datos_empleado:
     
     def imprimir_info(self):
         for i in range(len(self.Api_datos)):
-            print (self.Api_datos[i].ver_info_empleado())
+            print (self.Api_datos[i].ver_info())
         #este para imprimir unos en especifico
         #print("xxxx: " , self.Api_datos)
         #print("aaaa: " , self.Api_datos[0].get_nombre_empleado())
